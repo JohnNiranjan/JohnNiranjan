@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Informationsecuritysystems </b>
+- <b>Information security systems </b>
   - [Praciting vulnerability assessment, secure authentication, and cryptography](https://github.com/JohnNiranjan/InformationSecuritySystems)
 - <b>Ethical Hacking </b>
   - [Assess, analyze, and exploit system vulnerabilities](https://github.com/JohnNiranjan/Ethical-Hacking)
