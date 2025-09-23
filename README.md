@@ -23,8 +23,5 @@
 
 [<img align="left" alt="JohnNiranjan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-
-
-[linkedin]: https://linkedin.com/in/www.linkedin.com/in/john-niranjan-2303a2222
+[linkedin]: https://linkedin.com/in/John Niranjan
 
