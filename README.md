@@ -2,16 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Informationsecuritysystems </b>
+  - [Praciting vulnerability assessment, secure authentication, and cryptography](https://github.com/JohnNiranjan/InformationSecuritySystems)
+- <b>Ethical Hacking </b>
+  - [Assess, analyze, and exploit system vulnerabilities](https://github.com/JohnNiranjan/Ethical-Hacking)
+- <b>Scanning and Exploitation of Information Systems </b>
+  - [Praciting on privilege escalation, network pivoting, and ARP spoofing](https://github.com/JohnNiranjan/Scanning-and-Exploitation-of-Information-Systems)
+- <b>Security Operations of Information Systems </b>
+  - [Security Information and Event Management (SIEM), malware analysis, and network forensics](https://github.com/JohnNiranjan/Security-Operations-of-Information-Systems)
+- <b>VAPT_Report and Penetration Testing Report </b>
+  - [Praciting network VAPT, Metasploitable, VSFTP, and DVWA VAPT](https://github.com/JohnNiranjan/VAPT_Report-and-Penetration-Testing-Report)
 
 <h2>📺 Training and Certifications</h2>
 
@@ -28,5 +28,3 @@
 
 [linkedin]: https://linkedin.com/in/www.linkedin.com/in/john-niranjan-2303a2222
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
