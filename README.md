@@ -4,6 +4,9 @@
 
 <h2>👨‍💻 Linux, Networking, Database & Cloud Projects:</h2>
 
+- <b>Information security systems </b>
+  - [Praciting vulnerability assessment, secure authentication, and cryptography](https://github.com/JohnNiranjan/InformationSecuritySystems)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Information security systems </b>
