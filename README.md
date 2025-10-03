@@ -2,6 +2,8 @@
 
   Certified in NIIT Cybersecurity with GenAI Advanced Program Google Cybersecurity, IT Support and I have a solid foundation in IT troubleshooting, network security, threat detection, and AI-driven cybersecurity solutions. I'm always eager to apply my skills in Cybersecurity, and AI-driven security solutions to help organizations stay secure and resilient in an ever-changing digital world.
 
+<h2>👨‍💻 Linux, Networking, Database & Cloud Projects:</h2>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Information security systems </b>
