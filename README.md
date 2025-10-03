@@ -5,15 +5,15 @@
 <h2>👨‍💻 Linux, Networking, Database & Cloud Projects:</h2>
 
 - <b>Linux System Administration Essentials </b>
-  - [Praciting user and file system management, service control, and security configuration.](https://github.com/JohnNiranjan/Linux-System-Administration-Essentials)
+  - [Praciting user and file system management, service control, and security configuration](https://github.com/JohnNiranjan/Linux-System-Administration-Essentials)
 - <b>Programming and Scripting in Python and Database </b>
   - [ Design a relational database schema and develop a foundational Python application prototype](https://github.com/JohnNiranjan/Programming-and-Scripting-in-Python-and-Database)
 - <b>Logical and Physical Networks and Internetworking With Networking Fundamentals </b>
-  - [logical and physical network infrastructure .](https://github.com/JohnNiranjan/Logical-and-Physical-Networks-and-Internetworking-With-Networking-Fundamentals)
+  - [logical and physical network infrastructure ](https://github.com/JohnNiranjan/Logical-and-Physical-Networks-and-Internetworking-With-Networking-Fundamentals)
 - <b>Advanced Linux System Administration </b>
   - [Praciting centralized log management](https://github.com/JohnNiranjan/Advanced-Linux-System-Administration)
 - <b>Cloud Computing and Containerized Virtual Infrastructure </b>
-  - [Perform AWS cost estimation, and deploy a containerized web application stack using Docker.](https://github.com/JohnNiranjan/Cloud-Computing-and-Containerized-Virtual-Infrastructure-)
+  - [Perform AWS cost estimation, and deploy a containerized web application stack using Docker](https://github.com/JohnNiranjan/Cloud-Computing-and-Containerized-Virtual-Infrastructure-)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
