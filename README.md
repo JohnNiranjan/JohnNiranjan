@@ -6,7 +6,7 @@
 
 - <b>Linux System Administration Essentials </b>
   - [Praciting user and file system management, service control, and security configuration.](https://github.com/JohnNiranjan/Linux-System-Administration-Essentials)
-  - - <b>Programming and Scripting in Python and Database </b>
+  - <b>Programming and Scripting in Python and Database </b>
   - [ Design a relational database schema (MySQL) and develop a foundational Python application prototype that implements core CRUD operations](https://github.com/JohnNiranjan/Programming-and-Scripting-in-Python-and-Database)
 - <b>Logical and Physical Networks and Internetworking With Networking Fundamentals </b>
   - [logical and physical network infrastructure network segmentation, service integration, and fundamental internetworking with IP addressing.](https://github.com/JohnNiranjan/Logical-and-Physical-Networks-and-Internetworking-With-Networking-Fundamentals)
