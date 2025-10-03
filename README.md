@@ -7,13 +7,13 @@
 - <b>Linux System Administration Essentials </b>
   - [Praciting user and file system management, service control, and security configuration.](https://github.com/JohnNiranjan/Linux-System-Administration-Essentials)
 - <b>Programming and Scripting in Python and Database </b>
-  - [ Design a relational database schema (MySQL) and develop a foundational Python application prototype that implements core CRUD operations](https://github.com/JohnNiranjan/Programming-and-Scripting-in-Python-      and-Database)
+  - [ Design a relational database schema and develop a foundational Python application prototype](https://github.com/JohnNiranjan/Programming-and-Scripting-in-Python-and-Database)
 - <b>Logical and Physical Networks and Internetworking With Networking Fundamentals </b>
-  - [logical and physical network infrastructure network segmentation, service integration, and fundamental internetworking with IP addressing.](https://github.com/JohnNiranjan/Logical-and-Physical-Networks-and-      Internetworking-With-Networking-Fundamentals)
+  - [logical and physical network infrastructure .](https://github.com/JohnNiranjan/Logical-and-Physical-Networks-and-Internetworking-With-Networking-Fundamentals)
 - <b>Advanced Linux System Administration </b>
-  - [Praciting centralized log management using rsyslog and automate common system diagnostics through interactive Bash scripting](https://github.com/JohnNiranjan/Advanced-Linux-System-Administration)
+  - [Praciting centralized log management](https://github.com/JohnNiranjan/Advanced-Linux-System-Administration)
 - <b>Cloud Computing and Containerized Virtual Infrastructure </b>
-  - [Perform AWS cost estimation, and deploy a containerized web application stack using Docker to demonstrate mastery of modern cloud service delivery.](https://github.com/JohnNiranjan/Cloud-Computing-and-           Containerized-Virtual-Infrastructure-)
+  - [Perform AWS cost estimation, and deploy a containerized web application stack using Docker.](https://github.com/JohnNiranjan/Cloud-Computing-and-Containerized-Virtual-Infrastructure-)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
