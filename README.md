@@ -31,6 +31,7 @@
 
 <h2>📺 Training and Certifications</h2>
 
+- [NIIT Cybersecurity with GenAI Advanced Program](https://drive.google.com/drive/folders/1qm7BgJ_yHU_w5zauLGQYYZFs44ne4FRI)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5W21RVGKU51G)
 - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/G29XGWHSPG9W)
 
